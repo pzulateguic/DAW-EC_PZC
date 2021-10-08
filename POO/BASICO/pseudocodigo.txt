@@ -1,0 +1,32 @@
+pseudocodigo
+
+Clase vehiculo
+    atributo publico marca : texto
+    atributo privado motor : texto
+
+    void constructor (marca : texto , motor : texto)
+        inicio
+                instancia.marca <- marca
+                instancia.motor <- motor
+        Fin
+
+    void movimiento (coordenada : Coordenada )
+        inicio
+                ALGO
+        Fin
+
+    MotorArrancado arrancar (girarllave : Girarllave )
+        inicio
+                ALGO
+        Fin
+
+
+Clase Coche
+    
+     atributo publico vehiculo : Vehiculo
+
+
+    constructor (vehiculo : Vehiculo )
+        inicio
+                instancia.vehiculo <- vehiculo
+        Fin
