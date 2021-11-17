@@ -31,11 +31,11 @@
   height: 3rem;
   border: 1px solid rgb(168, 168, 168);
   text-align: center;
-  color: rgb(7, 255, 69);
+  color: rgb(251, 255, 38);
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
+  background-color: rgb(3, 3, 3);
   transition: background-color ease-in 0.2s;
 }
 
