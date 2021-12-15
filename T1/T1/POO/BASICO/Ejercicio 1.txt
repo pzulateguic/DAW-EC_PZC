@@ -1,0 +1,29 @@
+pseudocodigo
+
+Clase Equipo
+    Atributo entrenador : Entrenador
+    Atributo jugador : Jugador
+
+    Constructor(entrenador : Entrenador, jugador : Jugador)
+        inicio
+            instancia.entrenador <- entrenador
+            instancia.jugador <- jugador
+
+clase Entrenador
+    Atributo animar : Texto
+    Atributo hacerCambios : Texto
+
+    Constructor(animar : Texto, jugador : Texto)
+        inicio
+            instancia.animar <- animar
+            instancia.jugador <- jugador
+
+
+Clase Jugador
+    Atributo Jugar : Texto
+    Atributo Encestar : Texto
+
+    Constructor(jugar : Texto, encestar : Texto)
+        inicio
+            instancia.jugar <- jugar
+            instancia.encestar <- encestar

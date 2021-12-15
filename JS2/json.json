@@ -1,0 +1,140 @@
+{
+    "paises": [
+        {
+            "capital": "Burkina Faso",
+            "ciudad": "Ouagadougou"
+        },
+        {
+            "capital": "Burundi",
+            "ciudad": "Bujumbura"
+        },
+        {
+            "capital": "Cambodia",
+            "ciudad": "Phnom Penh"
+        },
+        {
+            "capital": "Cameroon",
+            "ciudad": "Yaound"
+        },
+        {
+            "capital": "Canada",
+            "ciudad": "Ottawa"
+        },
+        {
+            "capital": "Cape Verde",
+            "ciudad": "Praia"
+        },
+        {
+            "capital": "Cayman Islands",
+            "ciudad": "George Town"
+        },
+        {
+            "capital": "Central African Republic",
+            "ciudad": "Bangui"
+        },
+        {
+            "capital": "Chad",
+            "ciudad": "N'Djam"
+        },
+        {
+            "capital": "Chile",
+            "ciudad": "Santiago de Chile"
+        },
+        {
+            "capital": "China",
+            "ciudad": "Peking"
+        },
+        {
+            "capital": "Christmas Island",
+            "ciudad": "Flying Fish Cove"
+        },
+        {
+            "capital": "Cocos (Keeling) Islands",
+            "ciudad": "West Island"
+        },
+        {
+            "capital": "Colombia",
+            "ciudad": "Santaf"
+        },
+        {
+            "capital": "Comoros",
+            "ciudad": "Moroni"
+        },
+        {
+            "capital": "Congo",
+            "ciudad": "Brazzaville"
+        },
+        {
+            "capital": "Cook Islands",
+            "ciudad": "Avarua"
+        },
+        {
+            "capital": "Costa Rica",
+            "ciudad": "San Jos"
+        },
+        {
+            "capital": "Croatia",
+            "ciudad": "Zagreb"
+        },
+        {
+            "capital": "Cuba",
+            "ciudad": "La Habana"
+        },
+        {
+            "capital": "Cyprus",
+            "ciudad": "Nicosia"
+        },
+        {
+            "capital": "Czech Republic",
+            "ciudad": "Praha"
+        },
+        {
+            "capital": "Denmark",
+            "ciudad": "Copenhagen"
+        },
+        {
+            "capital": "Djibouti",
+            "ciudad": "Djibouti"
+        },
+        {
+            "capital": "Dominica",
+            "ciudad": "Roseau"
+        },
+        {
+            "capital": "Dominican Republic",
+            "ciudad": "Santo Domingo de Guzm"
+        },
+        {
+            "capital": "East Timor",
+            "ciudad": "Dili"
+        },
+        {
+            "capital": "Ecuador",
+            "ciudad": "Quito"
+        },
+        {
+            "capital": "Egypt",
+            "ciudad": "Cairo"
+        },
+        {
+            "capital": "El Salvador",
+            "ciudad": "San Salvador"
+        },
+        {
+            "capital": "England",
+            "ciudad": "London"
+        },
+        {
+            "capital": "Equatorial Guinea",
+            "ciudad": "Malabo"
+        },
+        {
+            "capital": "Eritrea",
+            "ciudad": "Asmara"
+        },
+        {
+            "capital": "Estonia",
+            "ciudad": "Tallinn"
+        }
+    ]
+}
