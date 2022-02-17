@@ -1,3 +1,4 @@
+import { Serializer } from '@angular/compiler';
 import { Component } from '@angular/core';
 
 @Component({
@@ -5,6 +6,12 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  title = 'Entornocliente';
+export class AppComponent implements OnInit {
+  public animes:
+  Constructor() { }
+  ngOnInit(){
+
+  }
+  Salir(){}
+  
 }

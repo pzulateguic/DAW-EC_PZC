@@ -1,0 +1,4 @@
+<div *ngFor="let contacto of contactos;">
+    <app-contactos-comp [contacto]="contacto"></app-contactos-comp>
+</div>
+<div *ngIf="contactos.length <=2"><h1>Tienes pocos amigos en tu lista de contactos</h1></div>
