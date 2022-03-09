@@ -1,0 +1,13 @@
+<div *ngIf="contactos.length <= 9"><div>Hay pocos contactos!</div>
+
+<h1>{{nombre}}</h1>
+<div class="container">
+    
+    <div  class="elementos" *ngFor="let contacto of contactos">
+        <h2>{{contacto.nombre}}</h2>
+        <img src="{{contacto.imagen}}" alt="{{contacto.nombre}}"/>
+        <hr>
+        <button (click)="borrarContacto(contacto.nombre)"></button>
+    </div>
+
+</div>

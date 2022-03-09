@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@angular/cli": "^13.2.1",
-    "symbol-observable": "^4.0.0"
-  }
-}

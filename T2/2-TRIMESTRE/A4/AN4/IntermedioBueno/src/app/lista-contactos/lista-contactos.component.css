@@ -1,0 +1,6 @@
+/* estilos del contenedor */
+
+.container{
+    display:flex;
+    flex-wrap:wrap;
+}
